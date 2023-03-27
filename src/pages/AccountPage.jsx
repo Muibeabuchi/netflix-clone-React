@@ -1,5 +1,5 @@
 import React from 'react'
-import SavedShows from '../components/savedShows'
+import SavedShows from '../components/SavedShows'
 
 function AccountPage() {
   return (
